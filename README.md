@@ -1,1 +1,1 @@
-ruby-szkriptek
+kis hasznos szkriptek
